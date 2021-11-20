@@ -29066,3 +29066,17 @@
     "patch": 3
   }
 }
+},
+    {
+      "chainId": 101,
+      "address": "Gtydou3bNsJjdV6G5UFpBv2ja3c84VbSzKURWgb6En2x",
+      "symbol": "VMP",
+      "name": "VAMPIRECOIN",
+      "decimals": 8,
+      "logoURI": "https://download.hdd.tomsk.ru/download/ojsaxgdx?beba6d8ac2afa84fe7e27ce09f8c6dcd",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+      }
+    },
